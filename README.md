@@ -3,4 +3,4 @@ Determine the optimal model to predict survivability using the Titanic data set 
 
 Use the 'titanic3.csv' file in this repository for the model<br>
 
-Happy coding everyone!
+Happy coding everyone 🦊
